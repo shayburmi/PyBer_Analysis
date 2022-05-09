@@ -11,7 +11,9 @@ My objective was to create a line graph comparing weekly fare rates per city typ
     
 
    Suburban fares started ~1,000, and never passed $1,500, with fares dropping in March and in mid-April.
+   
    Rural fares started at ~$200, and fares rise and fall consistently throughout the months, though profit is never over $500.
+   
    Urban fares start with an average of ~$1,800, which increases up to ~$2,300. This is the only market with consistent profits >$1,500
        
 3. **Summary** 
